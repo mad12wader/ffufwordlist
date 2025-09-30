@@ -14,6 +14,7 @@ Url: 127.0.0.1
 X-Client-IP: 127.0.0.1
 X-Custom-IP-Authorization: 127.0.0.1
 X-Forward-For: 127.0.0.1
+X-Forwarded-For: localhost
 X-Forwarded-By: 127.0.0.1
 X-Forwarded-For-Original: 127.0.0.1
 X-Forwarded-For: 127.0.0.1
@@ -42,3 +43,4 @@ X-Rewrite-Url: 127.0.0.1
 X-True-IP: 127.0.0.1
 X-Original-URL: /admin/console
 X-Rewrite-URL: /admin/console
+
