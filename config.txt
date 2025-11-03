@@ -1,3 +1,11 @@
+cmd1.php
+cmd1.asp
+cmd1.aspx
+cmd1.jsp
+cmd.php
+cmd.asp
+cmd.jsp
+cmd.aspx
 upload.php
 uload.jsp
 upload.asp
