@@ -16,6 +16,13 @@ shel.aspx
 0.1.0.sql
 db.txt
 api/user_config
+admin/auth/login
+admin/auth
+admin/login
+adminadiv/login/index.php
+login/index.php
+config/nginx.conf
+wp-config.orig
 public_html.zip 
 src.zip 
 html.tar.gz
